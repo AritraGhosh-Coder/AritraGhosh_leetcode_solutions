@@ -18,6 +18,7 @@
 | [0892-surface-area-of-3d-shapes](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0905-sort-array-by-parity) |
+| [0908-smallest-range-i](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0908-smallest-range-i) |
 ## String
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0066-plus-one) |
 | [0892-surface-area-of-3d-shapes](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0892-surface-area-of-3d-shapes) |
+| [0908-smallest-range-i](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0908-smallest-range-i) |
 ## Sorting
 |  |
 | ------- |
