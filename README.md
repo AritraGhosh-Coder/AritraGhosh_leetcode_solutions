@@ -17,6 +17,7 @@
 | [0136-single-number](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0136-single-number) |
 | [0892-surface-area-of-3d-shapes](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0896-monotonic-array) |
+| [0905-sort-array-by-parity](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 ## String
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0905-sort-array-by-parity](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -44,6 +46,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0905-sort-array-by-parity](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 ## Divide and Conquer
 |  |
 | ------- |
