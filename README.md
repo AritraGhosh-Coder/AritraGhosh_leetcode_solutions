@@ -12,6 +12,7 @@
 | [0088-merge-sorted-array](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
 ## String
 |  |
 | ------- |
@@ -58,4 +59,5 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
