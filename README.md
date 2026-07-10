@@ -25,6 +25,7 @@
 | [0941-valid-mountain-array](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [0953-verifying-an-alien-dictionary](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0953-verifying-an-alien-dictionary) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@
 | [0929-unique-email-addresses](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [0953-verifying-an-alien-dictionary](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0953-verifying-an-alien-dictionary) |
 ## Trie
 |  |
 | ------- |
@@ -101,6 +103,7 @@
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0929-unique-email-addresses](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0929-unique-email-addresses) |
+| [0953-verifying-an-alien-dictionary](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0953-verifying-an-alien-dictionary) |
 ## Counting
 |  |
 | ------- |
