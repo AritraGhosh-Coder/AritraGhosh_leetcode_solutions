@@ -23,11 +23,13 @@
 | [0922-sort-array-by-parity-ii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0929-unique-email-addresses](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0941-valid-mountain-array) |
+| [0942-di-string-match](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0942-di-string-match) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0929-unique-email-addresses](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0929-unique-email-addresses) |
+| [0942-di-string-match](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0942-di-string-match) |
 ## Trie
 |  |
 | ------- |
@@ -40,6 +42,7 @@
 | [0088-merge-sorted-array](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0942-di-string-match](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0942-di-string-match) |
 ## Binary Search
 |  |
 | ------- |
@@ -104,4 +107,8 @@
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Greedy
+|  |
+| ------- |
+| [0942-di-string-match](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0942-di-string-match) |
 <!---LeetCode Topics End-->
