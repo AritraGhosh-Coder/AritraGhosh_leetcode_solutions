@@ -20,10 +20,12 @@
 | [0905-sort-array-by-parity](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0929-unique-email-addresses](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0929-unique-email-addresses) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0014-longest-common-prefix) |
+| [0929-unique-email-addresses](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0929-unique-email-addresses) |
 ## Trie
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0929-unique-email-addresses](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0929-unique-email-addresses) |
 ## Counting
 |  |
 | ------- |
