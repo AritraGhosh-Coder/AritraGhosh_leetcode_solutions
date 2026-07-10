@@ -15,6 +15,7 @@
 | [0119-pascals-triangle-ii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0136-single-number) |
+| [0892-surface-area-of-3d-shapes](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0892-surface-area-of-3d-shapes) |
 ## String
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0066-plus-one) |
+| [0892-surface-area-of-3d-shapes](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0892-surface-area-of-3d-shapes) |
 ## Sorting
 |  |
 | ------- |
@@ -67,4 +69,12 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0136-single-number) |
+## Geometry
+|  |
+| ------- |
+| [0892-surface-area-of-3d-shapes](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0892-surface-area-of-3d-shapes) |
+## Matrix
+|  |
+| ------- |
+| [0892-surface-area-of-3d-shapes](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0892-surface-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
