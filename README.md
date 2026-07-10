@@ -24,12 +24,14 @@
 | [0929-unique-email-addresses](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0942-di-string-match) |
+| [0944-delete-columns-to-make-sorted](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0929-unique-email-addresses](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0942-di-string-match) |
+| [0944-delete-columns-to-make-sorted](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
 ## Trie
 |  |
 | ------- |
