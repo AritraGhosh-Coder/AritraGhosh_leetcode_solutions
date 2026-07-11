@@ -35,6 +35,7 @@
 | [1002-find-common-characters](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1002-find-common-characters) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 ## String
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0136-single-number) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Geometry
 |  |
 | ------- |
