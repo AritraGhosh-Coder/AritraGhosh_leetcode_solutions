@@ -27,6 +27,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-verifying-an-alien-dictionary](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0976-largest-perimeter-triangle](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0976-largest-perimeter-triangle) |
 ## String
 |  |
 | ------- |
@@ -59,12 +60,14 @@
 | [0892-surface-area-of-3d-shapes](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0976-largest-perimeter-triangle](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0976-largest-perimeter-triangle) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0976-largest-perimeter-triangle) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -118,4 +121,5 @@
 |  |
 | ------- |
 | [0942-di-string-match](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0942-di-string-match) |
+| [0976-largest-perimeter-triangle](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
