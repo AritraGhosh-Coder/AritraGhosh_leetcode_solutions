@@ -38,6 +38,7 @@
 | [1018-binary-prefix-divisible-by-5](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1030-matrix-cells-in-distance-order](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1037-valid-boomerang) |
+| [1046-last-stone-weight](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1046-last-stone-weight) |
 ## String
 |  |
 | ------- |
@@ -157,4 +158,8 @@
 |  |
 | ------- |
 | [0999-available-captures-for-rook](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0999-available-captures-for-rook) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
