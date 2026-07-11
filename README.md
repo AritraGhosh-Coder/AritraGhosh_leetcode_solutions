@@ -31,6 +31,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [0997-find-the-town-judge](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0997-find-the-town-judge) |
+| [0999-available-captures-for-rook](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0999-available-captures-for-rook) |
 ## String
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 |  |
 | ------- |
 | [0892-surface-area-of-3d-shapes](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0892-surface-area-of-3d-shapes) |
+| [0999-available-captures-for-rook](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0999-available-captures-for-rook) |
 ## Hash Table
 |  |
 | ------- |
@@ -133,4 +135,8 @@
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0997-find-the-town-judge) |
+## Simulation
+|  |
+| ------- |
+| [0999-available-captures-for-rook](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0999-available-captures-for-rook) |
 <!---LeetCode Topics End-->
