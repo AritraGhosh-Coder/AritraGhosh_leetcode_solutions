@@ -41,6 +41,7 @@
 | [1046-last-stone-weight](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1089-duplicate-zeros) |
+| [1122-relative-sort-array](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1122-relative-sort-array) |
 ## String
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1030-matrix-cells-in-distance-order](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1122-relative-sort-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -139,6 +141,7 @@
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1002-find-common-characters) |
+| [1122-relative-sort-array](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1122-relative-sort-array) |
 ## Counting
 |  |
 | ------- |
@@ -170,6 +173,7 @@
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1122-relative-sort-array) |
 ## Enumeration
 |  |
 | ------- |
