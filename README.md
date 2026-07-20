@@ -44,6 +44,7 @@
 | [1122-relative-sort-array](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 ## String
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [1030-matrix-cells-in-distance-order](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1037-valid-boomerang) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Sorting
 |  |
 | ------- |
@@ -129,6 +131,7 @@
 | [0892-surface-area-of-3d-shapes](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [1030-matrix-cells-in-distance-order](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1037-valid-boomerang) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Matrix
 |  |
 | ------- |
