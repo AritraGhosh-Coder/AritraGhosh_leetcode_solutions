@@ -54,6 +54,7 @@
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0929-unique-email-addresses](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0942-di-string-match) |
@@ -126,6 +127,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0010-regular-expression-matching) |
 | [0118-pascals-triangle](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -202,4 +204,8 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1291-sequential-digits) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
