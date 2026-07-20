@@ -57,6 +57,7 @@
 | [0010-regular-expression-matching](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0929-unique-email-addresses](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -129,6 +130,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -214,4 +216,8 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
