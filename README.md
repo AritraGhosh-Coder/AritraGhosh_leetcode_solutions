@@ -9,6 +9,7 @@
 | [0027-remove-element](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -162,6 +163,7 @@
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0037-sudoku-solver](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0041-first-missing-positive) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0929-unique-email-addresses](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0929-unique-email-addresses) |
 | [0953-verifying-an-alien-dictionary](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0953-verifying-an-alien-dictionary) |
