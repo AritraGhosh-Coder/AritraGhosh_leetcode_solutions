@@ -49,6 +49,7 @@
 | [1260-shift-2d-grid](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 ## String
 |  |
 | ------- |
