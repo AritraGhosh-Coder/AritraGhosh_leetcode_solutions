@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0066-plus-one](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -150,6 +151,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0892-surface-area-of-3d-shapes](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0999-available-captures-for-rook](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0999-available-captures-for-rook) |
 | [1030-matrix-cells-in-distance-order](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1030-matrix-cells-in-distance-order) |
@@ -159,6 +161,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0037-sudoku-solver](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0037-sudoku-solver) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0929-unique-email-addresses](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0929-unique-email-addresses) |
 | [0953-verifying-an-alien-dictionary](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0953-verifying-an-alien-dictionary) |
@@ -220,4 +223,8 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
