@@ -42,6 +42,7 @@
 | [1051-height-checker](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1122-relative-sort-array) |
+| [1207-unique-number-of-occurrences](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 ## String
 |  |
 | ------- |
@@ -142,6 +143,7 @@
 | [0997-find-the-town-judge](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1122-relative-sort-array) |
+| [1207-unique-number-of-occurrences](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 ## Counting
 |  |
 | ------- |
