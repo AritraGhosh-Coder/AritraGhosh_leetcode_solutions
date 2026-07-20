@@ -47,6 +47,7 @@
 | [1232-check-if-it-is-a-straight-line](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1260-shift-2d-grid) |
+| [1266-minimum-time-visiting-all-points](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1266-minimum-time-visiting-all-points) |
 ## String
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1266-minimum-time-visiting-all-points](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1266-minimum-time-visiting-all-points) |
 ## Sorting
 |  |
 | ------- |
@@ -135,6 +137,7 @@
 | [1030-matrix-cells-in-distance-order](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1037-valid-boomerang) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1266-minimum-time-visiting-all-points](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1266-minimum-time-visiting-all-points) |
 ## Matrix
 |  |
 | ------- |
