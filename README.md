@@ -44,6 +44,7 @@
 | [1051-height-checker](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1122-relative-sort-array) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -176,6 +177,7 @@
 | [0997-find-the-town-judge](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1002-find-common-characters) |
 | [1122-relative-sort-array](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1122-relative-sort-array) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -183,6 +185,7 @@
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 ## Number Theory
 |  |
