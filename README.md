@@ -17,6 +17,7 @@
 | [0119-pascals-triangle-ii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0136-single-number) |
+| [0883-projection-area-of-3d-shapes](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0896-monotonic-array](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0905-sort-array-by-parity) |
@@ -93,6 +94,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0066-plus-one) |
+| [0883-projection-area-of-3d-shapes](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -150,6 +152,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0883-projection-area-of-3d-shapes](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [1030-matrix-cells-in-distance-order](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1037-valid-boomerang) |
@@ -159,6 +162,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0037-sudoku-solver) |
+| [0883-projection-area-of-3d-shapes](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [0999-available-captures-for-rook](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0999-available-captures-for-rook) |
 | [1030-matrix-cells-in-distance-order](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1030-matrix-cells-in-distance-order) |
