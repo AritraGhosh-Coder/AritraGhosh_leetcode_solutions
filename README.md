@@ -61,6 +61,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1406-stone-game-iii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1406-stone-game-iii) |
 ## String
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [1266-minimum-time-visiting-all-points](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1406-stone-game-iii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1406-stone-game-iii) |
 ## Sorting
 |  |
 | ------- |
@@ -151,6 +153,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1406-stone-game-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -256,4 +259,5 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
