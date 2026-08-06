@@ -116,6 +116,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1406-stone-game-iii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1406-stone-game-iii) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sorting
 |  |
 | ------- |
@@ -241,6 +242,7 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1291-sequential-digits) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Recursion
 |  |
 | ------- |
