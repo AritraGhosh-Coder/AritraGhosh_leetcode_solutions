@@ -76,6 +76,7 @@
 | [0953-verifying-an-alien-dictionary](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Trie
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [0942-di-string-match](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1089-duplicate-zeros) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -157,6 +159,7 @@
 | [0486-predict-the-winner](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -217,6 +220,7 @@
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Graph Theory
 |  |
 | ------- |
