@@ -48,6 +48,7 @@
 | [1089-duplicate-zeros](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1089-duplicate-zeros) |
 | [1122-relative-sort-array](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1140-stone-game-ii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1184-distance-between-bus-stops](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1184-distance-between-bus-stops) |
 | [1207-unique-number-of-occurrences](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -111,6 +112,7 @@
 | [0989-add-to-array-form-of-integer](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0989-add-to-array-form-of-integer) |
 | [1030-matrix-cells-in-distance-order](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1037-valid-boomerang](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1037-valid-boomerang) |
+| [1140-stone-game-ii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -158,6 +160,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Bit Manipulation
@@ -269,6 +272,7 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1406-stone-game-iii) |
 ## Depth-First Search
 |  |
@@ -278,4 +282,16 @@
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3310-remove-methods-from-project) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
