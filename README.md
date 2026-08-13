@@ -63,6 +63,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1406-stone-game-iii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1406-stone-game-iii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## String
@@ -78,6 +79,7 @@
 | [0953-verifying-an-alien-dictionary](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Trie
 |  |
@@ -310,4 +312,12 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1510-stone-game-iv) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
