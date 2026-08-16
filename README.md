@@ -63,6 +63,7 @@
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1406-stone-game-iii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -125,6 +126,7 @@
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1406-stone-game-iii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sorting
 |  |
@@ -220,6 +222,7 @@
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [2029-stone-game-ix](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Number Theory
 |  |
 | ------- |
@@ -232,6 +235,7 @@
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [2029-stone-game-ix](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Graph Theory
 |  |
@@ -284,6 +288,7 @@
 | [1140-stone-game-ii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -297,6 +302,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -306,10 +312,12 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
