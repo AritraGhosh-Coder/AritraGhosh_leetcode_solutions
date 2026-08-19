@@ -62,6 +62,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1386-cinema-seat-allocation](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2029-stone-game-ix) |
@@ -181,6 +182,7 @@
 | ------- |
 | [0136-single-number](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0136-single-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1386-cinema-seat-allocation](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Geometry
 |  |
@@ -218,6 +220,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1386-cinema-seat-allocation](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3731-find-missing-elements) |
@@ -240,6 +243,7 @@
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1386-cinema-seat-allocation](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Graph Theory
