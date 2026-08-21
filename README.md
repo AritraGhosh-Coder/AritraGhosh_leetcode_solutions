@@ -69,6 +69,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3731-find-missing-elements) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0035-search-insert-position) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Math
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 | [1510-stone-game-iv](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Sorting
 |  |
@@ -184,6 +187,7 @@
 | [0136-single-number](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0136-single-number) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1386-cinema-seat-allocation](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Geometry
 |  |
@@ -236,6 +240,7 @@
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Greedy
 |  |
 | ------- |
@@ -342,4 +347,8 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
