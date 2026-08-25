@@ -74,6 +74,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3721-longest-balanced-subarray-ii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -160,6 +161,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [3721-longest-balanced-subarray-ii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Tree
 |  |
 | ------- |
@@ -237,6 +239,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3721-longest-balanced-subarray-ii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
@@ -337,6 +340,7 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1140-stone-game-ii) |
+| [3721-longest-balanced-subarray-ii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -356,6 +360,7 @@
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3721-longest-balanced-subarray-ii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Ordered Set
 |  |
 | ------- |
