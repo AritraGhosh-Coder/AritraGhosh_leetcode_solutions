@@ -67,6 +67,7 @@
 | [1563-stone-game-v](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -230,6 +231,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1386-cinema-seat-allocation](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -294,6 +296,7 @@
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Stack
 |  |
 | ------- |
