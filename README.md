@@ -94,6 +94,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Trie
 |  |
 | ------- |
@@ -240,6 +241,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3721-longest-balanced-subarray-ii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Counting
@@ -249,6 +251,7 @@
 | [1128-number-of-equivalent-domino-pairs](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2029-stone-game-ix](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2029-stone-game-ix) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
@@ -266,6 +269,7 @@
 | [1927-sum-game](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Graph Theory
 |  |
 | ------- |
@@ -293,6 +297,7 @@
 | ------- |
 | [1291-sequential-digits](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Recursion
 |  |
 | ------- |
