@@ -66,6 +66,7 @@
 | [1406-stone-game-iii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -270,6 +271,7 @@
 | [1386-cinema-seat-allocation](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Graph Theory
