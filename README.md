@@ -69,6 +69,7 @@
 | [2029-stone-game-ix](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -164,6 +165,7 @@
 | [1030-matrix-cells-in-distance-order](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1030-matrix-cells-in-distance-order) |
 | [1051-height-checker](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1122-relative-sort-array) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -394,4 +396,8 @@
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
