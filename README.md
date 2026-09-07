@@ -90,6 +90,7 @@
 | [0032-longest-valid-parentheses](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0115-distinct-subsequences) |
 | [0929-unique-email-addresses](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0929-unique-email-addresses) |
+| [0940-distinct-subsequences-ii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [0942-di-string-match](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-verifying-an-alien-dictionary](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0953-verifying-an-alien-dictionary) |
@@ -199,6 +200,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1510-stone-game-iv) |
