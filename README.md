@@ -132,6 +132,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0892-surface-area-of-3d-shapes) |
@@ -220,6 +221,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0836-rectangle-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/0892-surface-area-of-3d-shapes) |
 | [1030-matrix-cells-in-distance-order](https://github.com/AritraGhosh-Coder/AritraGhosh_leetcode_solutions/tree/master/1030-matrix-cells-in-distance-order) |
